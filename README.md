@@ -10,6 +10,7 @@ Extracting: This is getting an element in a heap, which can be either the maximu
 heapify: This is the process of creating a heap
 
 APPLICATIONS OF HEAP DATA STRUCTURE
+
 The heap data structure is frequently used to create priority queues where elements are kept in a heap and arranged according to their priority.
 
 Algorithms for job scheduling use the heap data structure to arrange tasks according to their deadlines or priorities. The heap data structure is a helpful data structure for work scheduling applications because it provides quick access to the task with the highest priority.
