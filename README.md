@@ -4,10 +4,12 @@ There are two types of heaps:max-heap and min-heap
 Max-heap: The key at the root node of a Max-Heap must be greater than or equal to the key at each of its offspring.
 Min-heap: The key at the root node of a Min-Heap must be less than or equal to the key at each of its offspring.
 
-The common operations include:
+COMMON OPERATIONS IN A HEAP:
 
 Insert: This is the adding a value to a heap
+
 Extracting: This is getting an element in a heap, which can be either the maximum element or a minimum element based on the heap type
+
 heapify: This is the process of creating a heap
 
 APPLICATIONS OF HEAP DATA STRUCTURE
