@@ -1,8 +1,10 @@
 # Heaps
 A heap is a complete binary  tree-based data structure that satisfies the heap property, where the root node is always largest or smallest among all the other nodes depending on the heap type.
 There are two types of heaps:max-heap and min-heap
-Max-heap: The key at the root node of a Max-Heap must be greater than or equal to the key at each of its offspring.
-Min-heap: The key at the root node of a Min-Heap must be less than or equal to the key at each of its offspring.
+
+Max-heap:The key at the root node of a Max-Heap must be greater than or equal to the key at each of its offspring.
+Min-heap:The key at the root node of a Min-Heap must be less than or equal to the key at each of its offspring.
+
 
 COMMON OPERATIONS IN A HEAP:
 
@@ -27,4 +29,6 @@ Implementing a priority queue with the highest priority element always at the he
 DISADVANTAGES OF HEAPS
 
 Because the heap data structure is meant to preserve a particular elemental order, it is not very flexible. This implies that some applications that call for more flexible data structures might find it unsuitable.
+
+
 # Heaps
